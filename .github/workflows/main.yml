@@ -26,6 +26,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          external_repository: myuser/dotnetramblings
+          external_repository: myuser/ymzhu99
           publish_branch: master
           publish_dir: ./public
