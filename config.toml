@@ -1,0 +1,4 @@
+baseURL = "https://ymzhu99.github.io"
+languageCode = "en-us"
+title = "My E-Home"
+theme="eureka"
